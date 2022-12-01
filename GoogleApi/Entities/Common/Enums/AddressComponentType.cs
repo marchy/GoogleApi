@@ -152,6 +152,11 @@ public enum AddressComponentType
     /// </summary>
     [EnumMember(Value = "subpremise")]
     Subpremise,
+    
+    /// <summary>
+    /// </summary>
+    [EnumMember(Value = "town_square")]
+    Town_Square,
 
     /// <summary>
     /// Indicates a postal code as used to address postal mail within the country.
